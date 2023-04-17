@@ -1,0 +1,10 @@
+kullanici adi Sabahattin Ay
+kullanicin yas, kilo, boy bilgisi20, 90.0, 180.0
+kullanıcın vücut kitle indexi 0.0
+değer aralığı zayıf
+oluşturma tarihi: Sat Apr 15 16:48:32 2023++++++++++++++++++++
+kullanici adi sebo
+kullanicin yas, kilo, boy bilgisi20, 90.0, 180.0
+kullanıcın vücut kitle indexi 0.0
+değer aralığı zayıf
+oluşturma tarihi: Sat Apr 15 16:51:18 2023++++++++++++++++++++
